@@ -1,2 +1,2 @@
 # natube
-A intersted youtube movie
+An intersting YouTube video
